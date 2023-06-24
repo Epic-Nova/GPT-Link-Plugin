@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0 Connected with ChatGPT",
+	"FriendlyName": "GPT-Link",
+	"Description": "Integrates GPT with the Unreals AI system to build new AI Agents that interact completely different with the surrounding world.",
+	"Category": "AI",
+	"CreatedBy": "Simsalabim Studios",
+	"CreatedByURL": "https://simsalabimstudios.com",
+	"DocsURL": "https://docs.google.com/document/d/1bPk-aQUN_hSL9NCG2BXB6otJuHgffQ4w4hu8CFM6rmA",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/6251dedfa49144bf88263666a5c33e45",
+	"SupportURL": "https://support.epicnova.net",
+	"EngineVersion": "5.1",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "GPTLink",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
+		}
+	]
+}
