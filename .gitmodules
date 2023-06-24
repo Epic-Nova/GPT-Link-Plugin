@@ -1,0 +1,3 @@
+[submodule "Source/ThirdParty/GPT-Link-API"]
+	path = Source/ThirdParty/GPT-Link-API
+	url = https://github.com/Epic-Nova/GPT-Link-API
